@@ -1,4 +1,5 @@
 ﻿using System.IO.Pipes;
+using System.Text.Json;
 
 namespace P2
 {
@@ -20,7 +21,10 @@ namespace P2
             await pipeClient.ConnectAsync();
 
             using StreamWriter writer = new StreamWriter(pipeClient) { AutoFlush = true };
-            await writer.WriteLineAsync(Label + "Hello from Client!");
+
+            var move = new MoveRecord("Djed", "1");
+            string jsonMessage = JsonSerializer.Serialize(move); // Serialize object to JSON
+            writer.WriteLine(jsonMessage); // Send JSON message
             Console.WriteLine(Label + "Message sent.");
         }
     }

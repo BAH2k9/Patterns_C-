@@ -1,4 +1,5 @@
 ﻿using System.IO.Pipes;
+using System.Text.Json;
 
 namespace P1
 {
@@ -22,8 +23,13 @@ namespace P1
             pipeServer.WaitForConnection();
 
             using StreamReader reader = new StreamReader(pipeServer);
-            string message = await reader.ReadLineAsync();
-            Console.WriteLine(Label + $"Received: {message}");
+            string jsonMessage = reader.ReadLine() ?? throw new Exception(); // Read JSON string
+
+            MoveRecord move = JsonSerializer.Deserialize<MoveRecord>(jsonMessage) ?? throw new Exception();// Deserialize JSON to object
+
+
+            Console.WriteLine($"Received Move: {move.Piece} \n Moved: {move.Direction}");
+
         }
 
     }
