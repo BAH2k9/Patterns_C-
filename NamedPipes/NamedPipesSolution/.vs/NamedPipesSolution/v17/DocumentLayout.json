@@ -41,6 +41,10 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MoveRecord.cs",
@@ -50,12 +54,7 @@
               "RelativeToolTip": "P1\\MoveRecord.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T00:31:08.21Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "WhenOpened": "2025-02-22T00:31:08.21Z"
             },
             {
               "$type": "Document",
@@ -67,8 +66,7 @@
               "RelativeToolTip": "P2\\MoveRecord.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T00:31:14.932Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-22T00:31:14.932Z"
             },
             {
               "$type": "Document",
@@ -78,7 +76,7 @@
               "RelativeDocumentMoniker": "P2\\Sender.cs",
               "ToolTip": "C:\\Users\\baile\\source\\GitHub\\Personal\\Patterns_C-\\NamedPipes\\NamedPipesSolution\\P2\\Sender.cs",
               "RelativeToolTip": "P2\\Sender.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAqwB4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-22T00:09:36.685Z",
               "EditorCaption": ""
@@ -93,8 +91,7 @@
               "RelativeToolTip": "P1\\Receiver.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T00:07:18.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-22T00:07:18.417Z"
             },
             {
               "$type": "Document",

@@ -1,0 +1,15 @@
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\TCP_Connection\Host\bin\Debug\net8.0\Host.exe
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\TCP_Connection\Host\bin\Debug\net8.0\Host.dll
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\TCP_Connection\Host\obj\Debug\net8.0\Host.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\TCP_Connection\Host\obj\Debug\net8.0\Host.AssemblyInfoInputs.cache
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\TCP_Connection\Host\obj\Debug\net8.0\Host.AssemblyInfo.cs
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\TCP_Connection\Host\obj\Debug\net8.0\Host.csproj.CoreCompileInputs.cache
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\TCP_Connection\Host\obj\Debug\net8.0\Host.sourcelink.json
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\TCP_Connection\Host\bin\Debug\net8.0\Host.deps.json
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\TCP_Connection\Host\bin\Debug\net8.0\Host.runtimeconfig.json
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\TCP_Connection\Host\bin\Debug\net8.0\Host.pdb
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\TCP_Connection\Host\obj\Debug\net8.0\Host.dll
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\TCP_Connection\Host\obj\Debug\net8.0\refint\Host.dll
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\TCP_Connection\Host\obj\Debug\net8.0\Host.pdb
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\TCP_Connection\Host\obj\Debug\net8.0\Host.genruntimeconfig.cache
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\TCP_Connection\Host\obj\Debug\net8.0\ref\Host.dll
