@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Net;
 using System.Net.Sockets;
@@ -35,12 +36,28 @@ namespace Host
             listener.Start();
             Print($"Listening on port {listenPort}...");
 
+            await Task.Delay(1000);
+
             TcpClient client = await listener.AcceptTcpClientAsync();
             Print($"Connected by {client.Client.RemoteEndPoint}");
 
-            using var stream = client.GetStream();
-            byte[] response = Encoding.UTF8.GetBytes("Hello from Bot1 (TCP)!");
-            await stream.WriteAsync(response, 0, response.Length);
+
+            using NetworkStream stream = client.GetStream();
+            byte[] buffer = new byte[1024];
+
+            int bytesRead = await stream.ReadAsync(buffer, 0, buffer.Length);
+            if (bytesRead > 0)
+            {
+                string receivedMessage = Encoding.UTF8.GetString(buffer, 0, bytesRead);
+                Print($"Received: {receivedMessage}");
+            }
+            else
+            {
+                Print("No data received or client disconnected.");
+            }
+
+
+
 
             client.Close();
 

@@ -1,0 +1,15 @@
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\WPF_Simulation\WPF_Simulation\bin\Debug\net8.0\WPF_Simulation.exe
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\WPF_Simulation\WPF_Simulation\bin\Debug\net8.0\WPF_Simulation.deps.json
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\WPF_Simulation\WPF_Simulation\bin\Debug\net8.0\WPF_Simulation.runtimeconfig.json
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\WPF_Simulation\WPF_Simulation\bin\Debug\net8.0\WPF_Simulation.dll
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\WPF_Simulation\WPF_Simulation\bin\Debug\net8.0\WPF_Simulation.pdb
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\WPF_Simulation\WPF_Simulation\obj\Debug\net8.0\WPF_Simulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\WPF_Simulation\WPF_Simulation\obj\Debug\net8.0\WPF_Simulation.AssemblyInfoInputs.cache
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\WPF_Simulation\WPF_Simulation\obj\Debug\net8.0\WPF_Simulation.AssemblyInfo.cs
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\WPF_Simulation\WPF_Simulation\obj\Debug\net8.0\WPF_Simulation.csproj.CoreCompileInputs.cache
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\WPF_Simulation\WPF_Simulation\obj\Debug\net8.0\WPF_Simulation.sourcelink.json
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\WPF_Simulation\WPF_Simulation\obj\Debug\net8.0\WPF_Simulation.dll
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\WPF_Simulation\WPF_Simulation\obj\Debug\net8.0\refint\WPF_Simulation.dll
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\WPF_Simulation\WPF_Simulation\obj\Debug\net8.0\WPF_Simulation.pdb
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\WPF_Simulation\WPF_Simulation\obj\Debug\net8.0\WPF_Simulation.genruntimeconfig.cache
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\WPF_Simulation\WPF_Simulation\obj\Debug\net8.0\ref\WPF_Simulation.dll

@@ -4,6 +4,7 @@ using System.Net;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace Client
 {
@@ -13,10 +14,13 @@ namespace Client
         private readonly int timeout = 60;
         private Thread? listenerThread;
         public event Action<IPAddress, string> MessageReceived;
+        private IPEndPoint _endPoint;
 
-        public UdpListener(int port)
+        public UdpListener(int port, IPEndPoint endPoint)
         {
             listenPort = port;
+            _endPoint = endPoint;
+
         }
 
         public void Start()
@@ -40,7 +44,9 @@ namespace Client
                     string receivedMessage = Encoding.UTF8.GetString(receivedBytes);
                     Print($"Received from {remoteEP}: {receivedMessage}");
 
-                    MessageReceived?.Invoke(remoteEP.Address, receivedMessage); // invoke callback
+                    _endPoint = remoteEP;
+
+                    Respond(remoteEP.Address, receivedMessage);
                 }
                 catch (SocketException ex) when (ex.SocketErrorCode == SocketError.TimedOut)
                 {
@@ -54,6 +60,33 @@ namespace Client
                 {
                     Print("Listener stopped.");
                 }
+            }
+        }
+
+        private async void Respond(IPAddress serverIp, string message)
+        {
+            Print("Sending TCP response");
+
+            int serverPort = Int32.Parse(message);
+
+            try
+            {
+                using var client = new TcpClient();
+                await client.ConnectAsync(serverIp, serverPort);
+                Print($"Connected to {serverIp}:{serverPort}");
+
+                var stream = client.GetStream();
+
+                byte[] data = Encoding.UTF8.GetBytes("Hello From UDP Listener");
+                await stream.WriteAsync(data, 0, data.Length);
+                Print("Message sent.");
+
+            }
+            catch (SocketException e)
+            {
+                Print($"SocketException: {e}");
+
+
             }
         }
 

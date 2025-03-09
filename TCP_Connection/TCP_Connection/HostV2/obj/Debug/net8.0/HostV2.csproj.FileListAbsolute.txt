@@ -1,0 +1,15 @@
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\TCP_Connection\HostV2\bin\Debug\net8.0\HostV2.exe
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\TCP_Connection\HostV2\bin\Debug\net8.0\HostV2.deps.json
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\TCP_Connection\HostV2\bin\Debug\net8.0\HostV2.runtimeconfig.json
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\TCP_Connection\HostV2\bin\Debug\net8.0\HostV2.dll
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\TCP_Connection\HostV2\bin\Debug\net8.0\HostV2.pdb
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\TCP_Connection\HostV2\obj\Debug\net8.0\HostV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\TCP_Connection\HostV2\obj\Debug\net8.0\HostV2.AssemblyInfoInputs.cache
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\TCP_Connection\HostV2\obj\Debug\net8.0\HostV2.AssemblyInfo.cs
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\TCP_Connection\HostV2\obj\Debug\net8.0\HostV2.csproj.CoreCompileInputs.cache
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\TCP_Connection\HostV2\obj\Debug\net8.0\HostV2.sourcelink.json
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\TCP_Connection\HostV2\obj\Debug\net8.0\HostV2.dll
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\TCP_Connection\HostV2\obj\Debug\net8.0\refint\HostV2.dll
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\TCP_Connection\HostV2\obj\Debug\net8.0\HostV2.pdb
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\TCP_Connection\HostV2\obj\Debug\net8.0\HostV2.genruntimeconfig.cache
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\TCP_Connection\HostV2\obj\Debug\net8.0\ref\HostV2.dll
