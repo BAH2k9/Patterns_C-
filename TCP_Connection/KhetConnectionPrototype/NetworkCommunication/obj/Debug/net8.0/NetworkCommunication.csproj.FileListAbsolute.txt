@@ -1,0 +1,13 @@
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\KhetConnectionPrototype\NetworkCommunication\bin\Debug\net8.0\NetworkCommunication.deps.json
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\KhetConnectionPrototype\NetworkCommunication\bin\Debug\net8.0\NetworkCommunication.dll
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\KhetConnectionPrototype\NetworkCommunication\bin\Debug\net8.0\NetworkCommunication.pdb
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\KhetConnectionPrototype\NetworkCommunication\obj\Debug\net8.0\NetworkCommunication.csproj.AssemblyReference.cache
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\KhetConnectionPrototype\NetworkCommunication\obj\Debug\net8.0\NetworkCommunication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\KhetConnectionPrototype\NetworkCommunication\obj\Debug\net8.0\NetworkCommunication.AssemblyInfoInputs.cache
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\KhetConnectionPrototype\NetworkCommunication\obj\Debug\net8.0\NetworkCommunication.AssemblyInfo.cs
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\KhetConnectionPrototype\NetworkCommunication\obj\Debug\net8.0\NetworkCommunication.csproj.CoreCompileInputs.cache
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\KhetConnectionPrototype\NetworkCommunication\obj\Debug\net8.0\NetworkCommunication.sourcelink.json
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\KhetConnectionPrototype\NetworkCommunication\obj\Debug\net8.0\NetworkCommunication.dll
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\KhetConnectionPrototype\NetworkCommunication\obj\Debug\net8.0\refint\NetworkCommunication.dll
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\KhetConnectionPrototype\NetworkCommunication\obj\Debug\net8.0\NetworkCommunication.pdb
+C:\Users\baile\source\GitHub\Personal\Patterns_C-\TCP_Connection\KhetConnectionPrototype\NetworkCommunication\obj\Debug\net8.0\ref\NetworkCommunication.dll

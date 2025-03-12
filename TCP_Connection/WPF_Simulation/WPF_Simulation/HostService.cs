@@ -93,7 +93,6 @@ namespace WPF_Simulation
                 }
                 catch (TaskCanceledException)
                 {
-                    StopBroadcast();
                     return;
                 }
 
@@ -106,6 +105,7 @@ namespace WPF_Simulation
         {
             if (_broadCastTS.IsCancellationRequested)
             {
+                Console.WriteLine("Broadcast already stopped.");
                 return;
             }
             _broadCastTS.Cancel();
@@ -114,7 +114,12 @@ namespace WPF_Simulation
 
         private void StopListener()
         {
-            _listener?.Stop();
+            if (_listener == null)
+            {
+                Console.WriteLine("Listener already stopped.");
+                return;
+            }
+            _listener.Stop();
             Console.WriteLine("Listener stopped.");
         }
     }

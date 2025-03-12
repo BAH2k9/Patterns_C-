@@ -1,0 +1,67 @@
+[20:32:01 Information] [KhetSimulation.Application] Application started
+[20:32:01 Information] [KhetSimulation.Application] --- Menu ---
+[20:32:01 Information] [KhetSimulation.Application] 1. Host Game
+[20:32:01 Information] [KhetSimulation.Application] 2. Join Game
+[20:32:01 Information] [KhetSimulation.Application] 3. Exit Application
+[20:32:03 Information] [KhetSimulation.Application] Hosting game...
+[20:32:03 Information] [NetworkCommunication.NetworkService] Broadcasted port 5001 to network.
+[20:32:03 Information] [NetworkCommunication.NetworkService] Listening for TCP connections on port 5001...
+[20:32:04 Information] [NetworkCommunication.NetworkService] Broadcasted port 5001 to network.
+[20:32:05 Information] [NetworkCommunication.NetworkService] Broadcasted port 5001 to network.
+[20:32:06 Information] [NetworkCommunication.NetworkService] Broadcasted port 5001 to network.
+[20:32:06 Information] [NetworkCommunication.NetworkService] Client connected!
+[20:32:06 Information] [NetworkCommunication.NetworkService] Broadcast stopped.
+[20:32:08 Information] [KhetSimulation.Application] --- Menu ---
+[20:32:08 Information] [KhetSimulation.Application] 1. Host Game
+[20:32:08 Information] [KhetSimulation.Application] 2. Join Game
+[20:32:08 Information] [KhetSimulation.Application] 3. Exit Application
+[22:26:39 Information] [KhetSimulation.Application] Application started
+[22:26:39 Information] [KhetSimulation.Application] --- Menu ---
+[22:26:39 Information] [KhetSimulation.Application] 1. Host Game
+[22:26:39 Information] [KhetSimulation.Application] 2. Join Game
+[22:26:39 Information] [KhetSimulation.Application] 3. Exit Application
+[22:26:54 Information] [KhetSimulation.Application] Application started
+[22:26:54 Information] [KhetSimulation.Application] --- Menu ---
+[22:26:54 Information] [KhetSimulation.Application] 1. Host Game
+[22:26:54 Information] [KhetSimulation.Application] 2. Join Game
+[22:26:54 Information] [KhetSimulation.Application] 3. Exit Application
+[22:26:57 Information] [KhetSimulation.Application] Hosting game...
+[22:26:57 Information] [NetworkCommunication.NetworkService] Broadcasted port 5001 to network.
+[22:26:57 Information] [NetworkCommunication.NetworkService] Listening for TCP connections on port 5001...
+[22:26:58 Information] [NetworkCommunication.NetworkService] Broadcasted port 5001 to network.
+[22:26:59 Information] [NetworkCommunication.NetworkService] Broadcasted port 5001 to network.
+[22:27:00 Information] [NetworkCommunication.NetworkService] Broadcasted port 5001 to network.
+[22:27:00 Information] [NetworkCommunication.NetworkService] Client connected!
+[22:27:00 Information] [NetworkCommunication.NetworkService] Broadcast stopped.
+[22:27:00 Warning] [NetworkCommunication.NetworkService] No Client Connected.
+[22:27:02 Information] [KhetSimulation.Application] --- Menu ---
+[22:27:02 Information] [KhetSimulation.Application] 1. Host Game
+[22:27:02 Information] [KhetSimulation.Application] 2. Join Game
+[22:27:02 Information] [KhetSimulation.Application] 3. Exit Application
+[22:28:02 Information] [KhetSimulation.Application] Hosting game...
+[22:28:02 Information] [NetworkCommunication.NetworkService] Broadcasted port 5001 to network.
+[22:28:02 Warning] [NetworkCommunication.NetworkService] No Client Connected.
+[22:28:03 Information] [NetworkCommunication.NetworkService] Broadcasted port 5001 to network.
+[22:28:03 Information] [KhetSimulation.Application] --- Menu ---
+[22:28:03 Information] [KhetSimulation.Application] 1. Host Game
+[22:28:03 Information] [KhetSimulation.Application] 2. Join Game
+[22:28:03 Information] [KhetSimulation.Application] 3. Exit Application
+[22:28:04 Information] [NetworkCommunication.NetworkService] Broadcasted port 5001 to network.
+[22:28:05 Information] [NetworkCommunication.NetworkService] Broadcasted port 5001 to network.
+[22:28:06 Information] [NetworkCommunication.NetworkService] Broadcasted port 5001 to network.
+[22:28:07 Information] [NetworkCommunication.NetworkService] Broadcasted port 5001 to network.
+[22:28:08 Information] [NetworkCommunication.NetworkService] Broadcasted port 5001 to network.
+[22:28:09 Information] [NetworkCommunication.NetworkService] Broadcasted port 5001 to network.
+[22:28:10 Information] [NetworkCommunication.NetworkService] Broadcasted port 5001 to network.
+[22:28:11 Information] [NetworkCommunication.NetworkService] Broadcasted port 5001 to network.
+[22:28:12 Information] [NetworkCommunication.NetworkService] Max attempts reached. Stopping broadcast.
+[22:28:12 Information] [NetworkCommunication.NetworkService] Listener stopped.
+[22:28:12 Information] [NetworkCommunication.NetworkService] Broadcast stopped.
+[22:28:18 Information] [KhetSimulation.Application] Hosting game...
+[22:28:18 Warning] [NetworkCommunication.NetworkService] No Client Connected.
+[22:28:18 Information] [NetworkCommunication.NetworkService] Broadcasted port 5001 to network.
+[22:28:19 Information] [NetworkCommunication.NetworkService] Broadcasted port 5001 to network.
+[22:28:20 Information] [KhetSimulation.Application] --- Menu ---
+[22:28:20 Information] [KhetSimulation.Application] 1. Host Game
+[22:28:20 Information] [KhetSimulation.Application] 2. Join Game
+[22:28:20 Information] [KhetSimulation.Application] 3. Exit Application

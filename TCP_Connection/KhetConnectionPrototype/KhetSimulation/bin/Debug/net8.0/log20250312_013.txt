@@ -1,0 +1,82 @@
+[22:46:23 Information] [KhetSimulation.Application] Application started
+[22:46:23 Information] [KhetSimulation.Application] --- Menu ---
+[22:46:23 Information] [KhetSimulation.Application] 1. Host Game
+[22:46:23 Information] [KhetSimulation.Application] 2. Join Game
+[22:46:23 Information] [KhetSimulation.Application] 3. Exit Application
+[22:46:26 Information] [KhetSimulation.Application] Hosting game...
+[22:46:26 Information] [NetworkCommunication.NetworkService] Broadcasted port 5001 to network.
+[22:46:26 Information] [NetworkCommunication.NetworkService] Listening for TCP connections on port 5001...
+[22:46:27 Information] [NetworkCommunication.NetworkService] Broadcasted port 5001 to network.
+[22:46:28 Information] [NetworkCommunication.NetworkService] Broadcasted port 5001 to network.
+[22:46:28 Information] [NetworkCommunication.NetworkService] Client connected!
+[22:46:28 Information] [NetworkCommunication.NetworkService] Broadcast stopped.
+[22:46:28 Information] [NetworkCommunication.CommunicationLoop] 1. Shift Move
+[22:46:28 Information] [NetworkCommunication.CommunicationLoop] 2. Rotate Move
+[22:46:28 Information] [NetworkCommunication.CommunicationLoop] 3. Laser Fire
+[22:46:28 Information] [NetworkCommunication.CommunicationLoop] 4. Close Connection
+[22:46:33 Information] [NetworkCommunication.Channel] Sent: Laser Fire
+[22:46:33 Information] [NetworkCommunication.Channel] Waiting for message...
+[22:46:33 Information] [NetworkCommunication.Channel] Received: Laser Fire - Ack
+[22:46:33 Information] [NetworkCommunication.Channel] Waiting for message...
+[22:46:43 Information] [NetworkCommunication.Channel] Received: Laser Fire
+[22:46:43 Information] [NetworkCommunication.Channel] Sent: Laser Fire - Ack
+[22:46:43 Information] [NetworkCommunication.CommunicationLoop] 1. Shift Move
+[22:46:43 Information] [NetworkCommunication.CommunicationLoop] 2. Rotate Move
+[22:46:43 Information] [NetworkCommunication.CommunicationLoop] 3. Laser Fire
+[22:46:43 Information] [NetworkCommunication.CommunicationLoop] 4. Close Connection
+[22:47:12 Information] [KhetSimulation.Application] Application started
+[22:47:13 Information] [KhetSimulation.Application] --- Menu ---
+[22:47:13 Information] [KhetSimulation.Application] 1. Host Game
+[22:47:13 Information] [KhetSimulation.Application] 2. Join Game
+[22:47:13 Information] [KhetSimulation.Application] 3. Exit Application
+[22:47:15 Information] [KhetSimulation.Application] Hosting game...
+[22:47:15 Information] [NetworkCommunication.NetworkService] Broadcasted port 5001 to network.
+[22:47:15 Information] [NetworkCommunication.NetworkService] Listening for TCP connections on port 5001...
+[22:47:16 Information] [NetworkCommunication.NetworkService] Broadcasted port 5001 to network.
+[22:47:17 Information] [NetworkCommunication.NetworkService] Broadcasted port 5001 to network.
+[22:47:17 Information] [NetworkCommunication.NetworkService] Client connected!
+[22:47:17 Information] [NetworkCommunication.NetworkService] Broadcast stopped.
+[22:47:17 Information] [NetworkCommunication.CommunicationLoop] 1. Shift Move
+[22:47:17 Information] [NetworkCommunication.CommunicationLoop] 2. Rotate Move
+[22:47:17 Information] [NetworkCommunication.CommunicationLoop] 3. Laser Fire
+[22:47:17 Information] [NetworkCommunication.CommunicationLoop] 4. Close Connection
+[22:47:19 Information] [NetworkCommunication.Channel] Sent: Shift Move
+[22:47:19 Information] [NetworkCommunication.Channel] Waiting for message...
+[22:47:19 Information] [NetworkCommunication.Channel] Received: Shift Move - Ack
+[22:47:19 Information] [NetworkCommunication.CommunicationLoop] 1. Shift Move
+[22:47:19 Information] [NetworkCommunication.CommunicationLoop] 2. Rotate Move
+[22:47:19 Information] [NetworkCommunication.CommunicationLoop] 3. Laser Fire
+[22:47:19 Information] [NetworkCommunication.CommunicationLoop] 4. Close Connection
+[22:47:20 Information] [NetworkCommunication.Channel] Sent: Rotate Move
+[22:47:20 Information] [NetworkCommunication.Channel] Waiting for message...
+[22:47:20 Information] [NetworkCommunication.Channel] Received: Rotate Move - Ack
+[22:47:20 Information] [NetworkCommunication.CommunicationLoop] 1. Shift Move
+[22:47:20 Information] [NetworkCommunication.CommunicationLoop] 2. Rotate Move
+[22:47:20 Information] [NetworkCommunication.CommunicationLoop] 3. Laser Fire
+[22:47:20 Information] [NetworkCommunication.CommunicationLoop] 4. Close Connection
+[22:47:20 Information] [NetworkCommunication.Channel] Sent: Laser Fire
+[22:47:20 Information] [NetworkCommunication.Channel] Waiting for message...
+[22:47:20 Information] [NetworkCommunication.Channel] Received: Laser Fire - Ack
+[22:47:20 Information] [NetworkCommunication.Channel] Waiting for message...
+[22:47:28 Information] [NetworkCommunication.Channel] Received: Shift Move
+[22:47:28 Information] [NetworkCommunication.Channel] Sent: Shift Move - Ack
+[22:47:28 Information] [NetworkCommunication.Channel] Waiting for message...
+[22:47:29 Information] [NetworkCommunication.Channel] Received: Rotate Move
+[22:47:29 Information] [NetworkCommunication.Channel] Sent: Rotate Move - Ack
+[22:47:29 Information] [NetworkCommunication.Channel] Waiting for message...
+[22:47:32 Information] [NetworkCommunication.Channel] Received: Laser Fire
+[22:47:32 Information] [NetworkCommunication.Channel] Sent: Laser Fire - Ack
+[22:47:32 Information] [NetworkCommunication.CommunicationLoop] 1. Shift Move
+[22:47:32 Information] [NetworkCommunication.CommunicationLoop] 2. Rotate Move
+[22:47:32 Information] [NetworkCommunication.CommunicationLoop] 3. Laser Fire
+[22:47:32 Information] [NetworkCommunication.CommunicationLoop] 4. Close Connection
+[22:47:35 Information] [NetworkCommunication.Channel] Sent: Close Connection
+[22:47:35 Information] [NetworkCommunication.Channel] Waiting for message...
+[22:47:35 Information] [NetworkCommunication.Channel] Received: Close Connection - Ack
+[22:47:35 Information] [NetworkCommunication.CommunicationLoop] Close Connection - Ack
+[22:47:35 Warning] [NetworkCommunication.CommunicationLoop] Connection terminated.
+[22:47:37 Information] [KhetSimulation.Application] --- Menu ---
+[22:47:37 Information] [KhetSimulation.Application] 1. Host Game
+[22:47:37 Information] [KhetSimulation.Application] 2. Join Game
+[22:47:37 Information] [KhetSimulation.Application] 3. Exit Application
+[22:48:18 Information] [KhetSimulation.Application] Exiting Application...

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Concurrent;
+using System.Net.Sockets;
 using System.Threading;
 using System.Threading.Tasks;
 
@@ -39,7 +40,16 @@ namespace WPF_Simulation
                         {
                             Console.WriteLine("Joining game...");
                             var joiner = new JoinService(udpPort);
-                            var stream = await joiner.JoinGame();
+                            NetworkStream stream;
+                            try
+                            {
+                                stream = await joiner.JoinGame();
+                            }
+                            catch
+                            {
+                                continue;
+                            }
+
                             var messageLoop = new MessageLoop(stream);
                             await messageLoop.StartAsReceiver();
                             break;

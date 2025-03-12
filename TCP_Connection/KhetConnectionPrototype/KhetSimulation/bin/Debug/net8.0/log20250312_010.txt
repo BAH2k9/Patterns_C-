@@ -1,0 +1,60 @@
+[22:42:19 Information] [KhetSimulation.Application] Application started
+[22:42:19 Information] [KhetSimulation.Application] --- Menu ---
+[22:42:19 Information] [KhetSimulation.Application] 1. Host Game
+[22:42:19 Information] [KhetSimulation.Application] 2. Join Game
+[22:42:19 Information] [KhetSimulation.Application] 3. Exit Application
+[22:42:23 Information] [KhetSimulation.Application] Joining game...
+[22:42:23 Information] [NetworkCommunication.NetworkService] Listening for a UDP message...
+[22:42:23 Information] [NetworkCommunication.NetworkService] Received message: 5001 	 from 192.168.0.133:56338
+[22:42:23 Information] [NetworkCommunication.NetworkService] Connecting to server...
+[22:42:23 Information] [NetworkCommunication.NetworkService] Connected!...
+[22:42:23 Information] [NetworkCommunication.Channel] Waiting for message...
+[22:42:26 Information] [NetworkCommunication.Channel] Received: Shift Move
+[22:42:26 Information] [NetworkCommunication.Channel] Sent: Shift Move - Ack
+[22:42:26 Information] [NetworkCommunication.Channel] Waiting for message...
+[22:42:29 Information] [NetworkCommunication.Channel] Received: Rotate Move
+[22:42:29 Information] [NetworkCommunication.Channel] Sent: Rotate Move - Ack
+[22:42:29 Information] [NetworkCommunication.Channel] Waiting for message...
+[22:42:31 Information] [NetworkCommunication.Channel] Received: Laser Fire
+[22:42:31 Information] [NetworkCommunication.Channel] Sent: Laser Fire - Ack
+[22:42:31 Information] [NetworkCommunication.Channel] Waiting for message...
+[22:43:49 Information] [KhetSimulation.Application] Application started
+[22:43:49 Information] [KhetSimulation.Application] --- Menu ---
+[22:43:49 Information] [KhetSimulation.Application] 1. Host Game
+[22:43:49 Information] [KhetSimulation.Application] 2. Join Game
+[22:43:49 Information] [KhetSimulation.Application] 3. Exit Application
+[22:43:54 Information] [KhetSimulation.Application] Hosting game...
+[22:43:54 Information] [NetworkCommunication.NetworkService] Broadcasted port 5001 to network.
+[22:43:54 Information] [NetworkCommunication.NetworkService] Listening for TCP connections on port 5001...
+[22:43:55 Information] [NetworkCommunication.NetworkService] Broadcasted port 5001 to network.
+[22:43:56 Information] [NetworkCommunication.NetworkService] Broadcasted port 5001 to network.
+[22:43:57 Information] [NetworkCommunication.NetworkService] Broadcasted port 5001 to network.
+[22:43:57 Information] [NetworkCommunication.NetworkService] Client connected!
+[22:43:57 Information] [NetworkCommunication.NetworkService] Broadcast stopped.
+[22:43:57 Information] [NetworkCommunication.CommunicationLoop] 1. Shift Move
+[22:43:57 Information] [NetworkCommunication.CommunicationLoop] 2. Rotate Move
+[22:43:57 Information] [NetworkCommunication.CommunicationLoop] 3. Laser Fire
+[22:43:57 Information] [NetworkCommunication.CommunicationLoop] 4. Close Connection
+[22:44:00 Information] [NetworkCommunication.Channel] Sent: Shift Move
+[22:44:00 Information] [NetworkCommunication.Channel] Waiting for message...
+[22:44:00 Information] [NetworkCommunication.Channel] Received: Shift Move - Ack
+[22:44:00 Information] [NetworkCommunication.CommunicationLoop] Shift Move - Ack
+[22:44:00 Information] [NetworkCommunication.CommunicationLoop] 1. Shift Move
+[22:44:00 Information] [NetworkCommunication.CommunicationLoop] 2. Rotate Move
+[22:44:00 Information] [NetworkCommunication.CommunicationLoop] 3. Laser Fire
+[22:44:00 Information] [NetworkCommunication.CommunicationLoop] 4. Close Connection
+[22:44:01 Information] [NetworkCommunication.Channel] Sent: Shift Move
+[22:44:01 Information] [NetworkCommunication.Channel] Waiting for message...
+[22:44:01 Information] [NetworkCommunication.Channel] Received: Shift Move - Ack
+[22:44:01 Information] [NetworkCommunication.CommunicationLoop] Shift Move - Ack
+[22:44:01 Information] [NetworkCommunication.CommunicationLoop] 1. Shift Move
+[22:44:01 Information] [NetworkCommunication.CommunicationLoop] 2. Rotate Move
+[22:44:01 Information] [NetworkCommunication.CommunicationLoop] 3. Laser Fire
+[22:44:01 Information] [NetworkCommunication.CommunicationLoop] 4. Close Connection
+[22:44:04 Information] [NetworkCommunication.Channel] Sent: Laser Fire
+[22:44:04 Information] [NetworkCommunication.Channel] Waiting for message...
+[22:44:04 Information] [NetworkCommunication.Channel] Received: Laser Fire - Ack
+[22:44:04 Information] [NetworkCommunication.CommunicationLoop] Laser Fire - Ack
+[22:44:04 Information] [NetworkCommunication.Channel] Waiting for message...
+[22:45:38 Information] [NetworkCommunication.Channel] Could Not Receive Message
+[22:45:38 Warning] [NetworkCommunication.CommunicationLoop] Connection lost.

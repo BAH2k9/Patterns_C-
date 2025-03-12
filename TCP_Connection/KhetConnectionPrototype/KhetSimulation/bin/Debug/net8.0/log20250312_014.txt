@@ -1,0 +1,55 @@
+[22:47:13 Information] [KhetSimulation.Application] Application started
+[22:47:13 Information] [KhetSimulation.Application] --- Menu ---
+[22:47:13 Information] [KhetSimulation.Application] 1. Host Game
+[22:47:13 Information] [KhetSimulation.Application] 2. Join Game
+[22:47:13 Information] [KhetSimulation.Application] 3. Exit Application
+[22:47:16 Information] [KhetSimulation.Application] Joining game...
+[22:47:16 Information] [NetworkCommunication.NetworkService] Listening for a UDP message...
+[22:47:17 Information] [NetworkCommunication.NetworkService] Received message: 5001 	 from 192.168.0.133:64558
+[22:47:17 Information] [NetworkCommunication.NetworkService] Connecting to server...
+[22:47:17 Information] [NetworkCommunication.NetworkService] Connected!...
+[22:47:17 Information] [NetworkCommunication.Channel] Waiting for message...
+[22:47:19 Information] [NetworkCommunication.Channel] Received: Shift Move
+[22:47:19 Information] [NetworkCommunication.Channel] Sent: Shift Move - Ack
+[22:47:19 Information] [NetworkCommunication.Channel] Waiting for message...
+[22:47:20 Information] [NetworkCommunication.Channel] Received: Rotate Move
+[22:47:20 Information] [NetworkCommunication.Channel] Sent: Rotate Move - Ack
+[22:47:20 Information] [NetworkCommunication.Channel] Waiting for message...
+[22:47:20 Information] [NetworkCommunication.Channel] Received: Laser Fire
+[22:47:20 Information] [NetworkCommunication.Channel] Sent: Laser Fire - Ack
+[22:47:20 Information] [NetworkCommunication.CommunicationLoop] 1. Shift Move
+[22:47:20 Information] [NetworkCommunication.CommunicationLoop] 2. Rotate Move
+[22:47:20 Information] [NetworkCommunication.CommunicationLoop] 3. Laser Fire
+[22:47:20 Information] [NetworkCommunication.CommunicationLoop] 4. Close Connection
+[22:47:28 Information] [NetworkCommunication.Channel] Sent: Shift Move
+[22:47:28 Information] [NetworkCommunication.Channel] Waiting for message...
+[22:47:28 Information] [NetworkCommunication.Channel] Received: Shift Move - Ack
+[22:47:28 Information] [NetworkCommunication.CommunicationLoop] 1. Shift Move
+[22:47:28 Information] [NetworkCommunication.CommunicationLoop] 2. Rotate Move
+[22:47:28 Information] [NetworkCommunication.CommunicationLoop] 3. Laser Fire
+[22:47:28 Information] [NetworkCommunication.CommunicationLoop] 4. Close Connection
+[22:47:29 Information] [NetworkCommunication.Channel] Sent: Rotate Move
+[22:47:29 Information] [NetworkCommunication.Channel] Waiting for message...
+[22:47:29 Information] [NetworkCommunication.Channel] Received: Rotate Move - Ack
+[22:47:29 Information] [NetworkCommunication.CommunicationLoop] 1. Shift Move
+[22:47:29 Information] [NetworkCommunication.CommunicationLoop] 2. Rotate Move
+[22:47:29 Information] [NetworkCommunication.CommunicationLoop] 3. Laser Fire
+[22:47:29 Information] [NetworkCommunication.CommunicationLoop] 4. Close Connection
+[22:47:32 Information] [NetworkCommunication.Channel] Sent: Laser Fire
+[22:47:32 Information] [NetworkCommunication.Channel] Waiting for message...
+[22:47:32 Information] [NetworkCommunication.Channel] Received: Laser Fire - Ack
+[22:47:32 Information] [NetworkCommunication.Channel] Waiting for message...
+[22:47:35 Information] [NetworkCommunication.Channel] Received: Close Connection
+[22:47:35 Information] [NetworkCommunication.Channel] Sent: Close Connection - Ack
+[22:47:35 Information] [NetworkCommunication.CommunicationLoop] Close Connection - Ack
+[22:47:35 Warning] [NetworkCommunication.CommunicationLoop] Connection terminated.
+[22:47:37 Information] [KhetSimulation.Application] --- Menu ---
+[22:47:37 Information] [KhetSimulation.Application] 1. Host Game
+[22:47:37 Information] [KhetSimulation.Application] 2. Join Game
+[22:47:37 Information] [KhetSimulation.Application] 3. Exit Application
+[22:48:14 Information] [KhetSimulation.Application] Invalid input.
+[22:48:14 Information] [KhetSimulation.Application] --- Menu ---
+[22:48:14 Information] [KhetSimulation.Application] 1. Host Game
+[22:48:14 Information] [KhetSimulation.Application] 2. Join Game
+[22:48:14 Information] [KhetSimulation.Application] 3. Exit Application
+[22:48:15 Information] [KhetSimulation.Application] Exiting Application...

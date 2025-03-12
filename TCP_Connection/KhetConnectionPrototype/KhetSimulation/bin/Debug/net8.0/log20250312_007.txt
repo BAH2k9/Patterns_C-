@@ -1,0 +1,46 @@
+[22:36:01 Information] [KhetSimulation.Application] Application started
+[22:36:01 Information] [KhetSimulation.Application] --- Menu ---
+[22:36:01 Information] [KhetSimulation.Application] 1. Host Game
+[22:36:01 Information] [KhetSimulation.Application] 2. Join Game
+[22:36:01 Information] [KhetSimulation.Application] 3. Exit Application
+[22:36:06 Information] [KhetSimulation.Application] Joining game...
+[22:36:06 Information] [NetworkCommunication.NetworkService] Listening for a UDP message...
+[22:36:16 Warning] [NetworkCommunication.NetworkService] UDP receive timed out.
+[22:36:18 Information] [KhetSimulation.Application] --- Menu ---
+[22:36:18 Information] [KhetSimulation.Application] 1. Host Game
+[22:36:18 Information] [KhetSimulation.Application] 2. Join Game
+[22:36:18 Information] [KhetSimulation.Application] 3. Exit Application
+[22:36:30 Information] [KhetSimulation.Application] Joining game...
+[22:36:30 Information] [NetworkCommunication.NetworkService] Listening for a UDP message...
+[22:36:30 Information] [NetworkCommunication.NetworkService] Received message: 5001 	 from 192.168.0.133:49915
+[22:36:30 Information] [NetworkCommunication.NetworkService] Connecting to server...
+[22:36:30 Information] [NetworkCommunication.NetworkService] Connected!...
+[22:36:30 Information] [NetworkCommunication.Channel] Waiting for message...
+[22:36:39 Information] [NetworkCommunication.Channel] Received: Shift Move
+[22:36:39 Information] [NetworkCommunication.Channel] Sent: Shift Move - Ack
+[22:36:39 Information] [NetworkCommunication.Channel] Waiting for message...
+[22:37:28 Information] [NetworkCommunication.Channel] Could Not Receive Message
+[22:37:28 Warning] [NetworkCommunication.CommunicationLoop] Connection lost.
+[22:37:29 Information] [KhetSimulation.Application] --- Menu ---
+[22:37:29 Information] [KhetSimulation.Application] 1. Host Game
+[22:37:29 Information] [KhetSimulation.Application] 2. Join Game
+[22:37:29 Information] [KhetSimulation.Application] 3. Exit Application
+[22:37:41 Information] [KhetSimulation.Application] Application started
+[22:37:42 Information] [KhetSimulation.Application] --- Menu ---
+[22:37:42 Information] [KhetSimulation.Application] 1. Host Game
+[22:37:42 Information] [KhetSimulation.Application] 2. Join Game
+[22:37:42 Information] [KhetSimulation.Application] 3. Exit Application
+[22:37:46 Information] [KhetSimulation.Application] Hosting game...
+[22:37:46 Information] [NetworkCommunication.NetworkService] Broadcasted port 5001 to network.
+[22:37:46 Information] [NetworkCommunication.NetworkService] Listening for TCP connections on port 5001...
+[22:37:47 Information] [NetworkCommunication.NetworkService] Broadcasted port 5001 to network.
+[22:37:48 Information] [NetworkCommunication.NetworkService] Broadcasted port 5001 to network.
+[22:37:48 Information] [NetworkCommunication.NetworkService] Client connected!
+[22:37:48 Information] [NetworkCommunication.NetworkService] Broadcast stopped.
+[22:37:48 Information] [NetworkCommunication.CommunicationLoop] 1. Shift Move
+[22:37:48 Information] [NetworkCommunication.CommunicationLoop] 2. Rotate Move
+[22:37:48 Information] [NetworkCommunication.CommunicationLoop] 3. Laser Fire
+[22:37:48 Information] [NetworkCommunication.CommunicationLoop] 4. Close Connection
+[22:37:51 Information] [NetworkCommunication.Channel] Sent: Shift Move
+[22:37:51 Information] [NetworkCommunication.Channel] Waiting for message...
+[22:37:51 Information] [NetworkCommunication.Channel] Received: Shift Move - Ack

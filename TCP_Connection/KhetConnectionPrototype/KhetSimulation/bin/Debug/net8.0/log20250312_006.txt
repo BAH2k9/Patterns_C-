@@ -1,0 +1,39 @@
+[22:33:35 Information] [KhetSimulation.Application] Application started
+[22:33:35 Information] [KhetSimulation.Application] --- Menu ---
+[22:33:35 Information] [KhetSimulation.Application] 1. Host Game
+[22:33:35 Information] [KhetSimulation.Application] 2. Join Game
+[22:33:35 Information] [KhetSimulation.Application] 3. Exit Application
+[22:33:38 Information] [KhetSimulation.Application] Hosting game...
+[22:33:38 Information] [NetworkCommunication.NetworkService] Broadcasted port 5001 to network.
+[22:33:38 Information] [NetworkCommunication.NetworkService] Listening for TCP connections on port 5001...
+[22:33:39 Information] [NetworkCommunication.NetworkService] Broadcasted port 5001 to network.
+[22:33:40 Information] [NetworkCommunication.NetworkService] Broadcasted port 5001 to network.
+[22:33:40 Information] [NetworkCommunication.NetworkService] Client connected!
+[22:33:40 Information] [NetworkCommunication.NetworkService] Broadcast stopped.
+[22:33:40 Information] [NetworkCommunication.CommunicationLoop] 1. Shift Move
+[22:33:40 Information] [NetworkCommunication.CommunicationLoop] 2. Rotate Move
+[22:33:40 Information] [NetworkCommunication.CommunicationLoop] 3. Laser Fire
+[22:33:40 Information] [NetworkCommunication.CommunicationLoop] 4. Close Connection
+[22:33:43 Information] [NetworkCommunication.Channel] Sent: Shift Move
+[22:33:43 Information] [NetworkCommunication.Channel] Waiting for message...
+[22:35:01 Information] [NetworkCommunication.Channel] Received: Shift Move - Ack
+[22:35:59 Information] [KhetSimulation.Application] Application started
+[22:36:00 Information] [KhetSimulation.Application] --- Menu ---
+[22:36:00 Information] [KhetSimulation.Application] 1. Host Game
+[22:36:00 Information] [KhetSimulation.Application] 2. Join Game
+[22:36:00 Information] [KhetSimulation.Application] 3. Exit Application
+[22:36:04 Information] [KhetSimulation.Application] Hosting game...
+[22:36:27 Information] [NetworkCommunication.NetworkService] Listening for TCP connections on port 5001...
+[22:36:27 Information] [NetworkCommunication.NetworkService] Broadcasted port 5001 to network.
+[22:36:28 Information] [NetworkCommunication.NetworkService] Broadcasted port 5001 to network.
+[22:36:29 Information] [NetworkCommunication.NetworkService] Broadcasted port 5001 to network.
+[22:36:30 Information] [NetworkCommunication.NetworkService] Broadcasted port 5001 to network.
+[22:36:30 Information] [NetworkCommunication.NetworkService] Client connected!
+[22:36:30 Information] [NetworkCommunication.NetworkService] Broadcast stopped.
+[22:36:30 Information] [NetworkCommunication.CommunicationLoop] 1. Shift Move
+[22:36:30 Information] [NetworkCommunication.CommunicationLoop] 2. Rotate Move
+[22:36:30 Information] [NetworkCommunication.CommunicationLoop] 3. Laser Fire
+[22:36:30 Information] [NetworkCommunication.CommunicationLoop] 4. Close Connection
+[22:36:39 Information] [NetworkCommunication.Channel] Sent: Shift Move
+[22:36:39 Information] [NetworkCommunication.Channel] Waiting for message...
+[22:36:39 Information] [NetworkCommunication.Channel] Received: Shift Move - Ack

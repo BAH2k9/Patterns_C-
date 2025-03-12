@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\baile\\source\\GitHub\\Personal\\Patterns_C-\\TCP_Connection\\KhetConnectionPrototype\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B3F911-62AA-4309-91EB-05B916BC15A3}|NetworkCommunication\\NetworkCommunication.csproj|c:\\users\\baile\\source\\github\\personal\\patterns_c-\\tcp_connection\\khetconnectionprototype\\networkcommunication\\communicationloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6B3F911-62AA-4309-91EB-05B916BC15A3}|NetworkCommunication\\NetworkCommunication.csproj|solutionrelative:networkcommunication\\communicationloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06C7D07-2906-4059-B6F1-2BB0F3356BBE}|KhetSimulation\\KhetSimulation.csproj|c:\\users\\baile\\source\\github\\personal\\patterns_c-\\tcp_connection\\khetconnectionprototype\\khetsimulation\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06C7D07-2906-4059-B6F1-2BB0F3356BBE}|KhetSimulation\\KhetSimulation.csproj|solutionrelative:khetsimulation\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06C7D07-2906-4059-B6F1-2BB0F3356BBE}|KhetSimulation\\KhetSimulation.csproj|c:\\users\\baile\\source\\github\\personal\\patterns_c-\\tcp_connection\\khetconnectionprototype\\khetsimulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06C7D07-2906-4059-B6F1-2BB0F3356BBE}|KhetSimulation\\KhetSimulation.csproj|solutionrelative:khetsimulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B3F911-62AA-4309-91EB-05B916BC15A3}|NetworkCommunication\\NetworkCommunication.csproj|c:\\users\\baile\\source\\github\\personal\\patterns_c-\\tcp_connection\\khetconnectionprototype\\networkcommunication\\networkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6B3F911-62AA-4309-91EB-05B916BC15A3}|NetworkCommunication\\NetworkCommunication.csproj|solutionrelative:networkcommunication\\networkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B3F911-62AA-4309-91EB-05B916BC15A3}|NetworkCommunication\\NetworkCommunication.csproj|c:\\users\\baile\\source\\github\\personal\\patterns_c-\\tcp_connection\\khetconnectionprototype\\networkcommunication\\channel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6B3F911-62AA-4309-91EB-05B916BC15A3}|NetworkCommunication\\NetworkCommunication.csproj|solutionrelative:networkcommunication\\channel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 235,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CommunicationLoop.cs",
+              "DocumentMoniker": "C:\\Users\\baile\\source\\GitHub\\Personal\\Patterns_C-\\TCP_Connection\\KhetConnectionPrototype\\NetworkCommunication\\CommunicationLoop.cs",
+              "RelativeDocumentMoniker": "NetworkCommunication\\CommunicationLoop.cs",
+              "ToolTip": "C:\\Users\\baile\\source\\GitHub\\Personal\\Patterns_C-\\TCP_Connection\\KhetConnectionPrototype\\NetworkCommunication\\CommunicationLoop.cs",
+              "RelativeToolTip": "NetworkCommunication\\CommunicationLoop.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAWwDsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T21:25:14.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Channel.cs",
+              "DocumentMoniker": "C:\\Users\\baile\\source\\GitHub\\Personal\\Patterns_C-\\TCP_Connection\\KhetConnectionPrototype\\NetworkCommunication\\Channel.cs",
+              "RelativeDocumentMoniker": "NetworkCommunication\\Channel.cs",
+              "ToolTip": "C:\\Users\\baile\\source\\GitHub\\Personal\\Patterns_C-\\TCP_Connection\\KhetConnectionPrototype\\NetworkCommunication\\Channel.cs",
+              "RelativeToolTip": "NetworkCommunication\\Channel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T20:10:50.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NetworkService.cs",
+              "DocumentMoniker": "C:\\Users\\baile\\source\\GitHub\\Personal\\Patterns_C-\\TCP_Connection\\KhetConnectionPrototype\\NetworkCommunication\\NetworkService.cs",
+              "RelativeDocumentMoniker": "NetworkCommunication\\NetworkService.cs",
+              "ToolTip": "C:\\Users\\baile\\source\\GitHub\\Personal\\Patterns_C-\\TCP_Connection\\KhetConnectionPrototype\\NetworkCommunication\\NetworkService.cs",
+              "RelativeToolTip": "NetworkCommunication\\NetworkService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAlwC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T19:20:24.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\baile\\source\\GitHub\\Personal\\Patterns_C-\\TCP_Connection\\KhetConnectionPrototype\\KhetSimulation\\Application.cs",
+              "RelativeDocumentMoniker": "KhetSimulation\\Application.cs",
+              "ToolTip": "C:\\Users\\baile\\source\\GitHub\\Personal\\Patterns_C-\\TCP_Connection\\KhetConnectionPrototype\\KhetSimulation\\Application.cs",
+              "RelativeToolTip": "KhetSimulation\\Application.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:39:04.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\baile\\source\\GitHub\\Personal\\Patterns_C-\\TCP_Connection\\KhetConnectionPrototype\\KhetSimulation\\Program.cs",
+              "RelativeDocumentMoniker": "KhetSimulation\\Program.cs",
+              "ToolTip": "C:\\Users\\baile\\source\\GitHub\\Personal\\Patterns_C-\\TCP_Connection\\KhetConnectionPrototype\\KhetSimulation\\Program.cs",
+              "RelativeToolTip": "KhetSimulation\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:15:40.884Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

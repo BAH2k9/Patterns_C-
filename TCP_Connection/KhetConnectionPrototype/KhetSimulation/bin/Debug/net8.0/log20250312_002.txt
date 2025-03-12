@@ -1,0 +1,21 @@
+[22:26:55 Information] [KhetSimulation.Application] Application started
+[22:26:55 Information] [KhetSimulation.Application] --- Menu ---
+[22:26:55 Information] [KhetSimulation.Application] 1. Host Game
+[22:26:55 Information] [KhetSimulation.Application] 2. Join Game
+[22:26:55 Information] [KhetSimulation.Application] 3. Exit Application
+[22:27:00 Information] [KhetSimulation.Application] Joining game...
+[22:27:00 Information] [NetworkCommunication.NetworkService] Listening for a UDP message...
+[22:27:00 Information] [NetworkCommunication.NetworkService] Received message: 5001 	 from 192.168.0.133:62278
+[22:27:00 Information] [NetworkCommunication.NetworkService] Connecting to server...
+[22:27:00 Information] [NetworkCommunication.NetworkService] Connected!...
+[22:27:00 Warning] [NetworkCommunication.NetworkService] Failed to connect to server.
+[22:27:02 Information] [KhetSimulation.Application] --- Menu ---
+[22:27:02 Information] [KhetSimulation.Application] 1. Host Game
+[22:27:02 Information] [KhetSimulation.Application] 2. Join Game
+[22:27:02 Information] [KhetSimulation.Application] 3. Exit Application
+[22:29:01 Information] [KhetSimulation.Application] Application started
+[22:29:01 Information] [KhetSimulation.Application] --- Menu ---
+[22:29:01 Information] [KhetSimulation.Application] 1. Host Game
+[22:29:01 Information] [KhetSimulation.Application] 2. Join Game
+[22:29:01 Information] [KhetSimulation.Application] 3. Exit Application
+[22:29:13 Information] [KhetSimulation.Application] Hosting game...

@@ -11,6 +11,7 @@ namespace WPF_Simulation
     internal class JoinService
     {
         readonly int _udpPort;
+        readonly int JOIN_TIMEOUT = 10000;
         public JoinService(int udpPort)
         {
             _udpPort = udpPort;
@@ -33,16 +34,6 @@ namespace WPF_Simulation
                 NetworkStream stream = client.GetStream();
 
                 return stream;
-                // Send a message
-                //string message = "Hello, server!";
-                //KhetMove move = new KhetMove(0, 1); // Example move
-                //string jsonMove = move.Serialize();
-
-                //byte[] data = Encoding.UTF8.GetBytes(jsonMove);
-                //await stream.WriteAsync(data, 0, data.Length);
-
-                //Console.WriteLine($"Message: {move} sent!");
-
             }
             catch (Exception ex)
             {
@@ -56,16 +47,25 @@ namespace WPF_Simulation
         private (IPAddress, int) ListenForUdpBroadcasts()
         {
             using var udpListener = new UdpClient(_udpPort);
+            udpListener.Client.ReceiveTimeout = JOIN_TIMEOUT;
             IPEndPoint endPoint = new IPEndPoint(IPAddress.Any, _udpPort);
             Console.WriteLine("Listening for a UDP message...");
-            byte[] receivedData = udpListener.Receive(ref endPoint);
-            string message = Encoding.UTF8.GetString(receivedData);
-            int port = int.Parse(message);
 
-            Console.WriteLine($"Received message: {message}");
-            Console.WriteLine($"Message received from: {endPoint.Address}:{endPoint.Port}");
+            try
+            {
+                byte[] receivedData = udpListener.Receive(ref endPoint);
+                string message = Encoding.UTF8.GetString(receivedData);
+                int port = int.Parse(message);
 
-            return (endPoint.Address, port);
+                Console.WriteLine($"Received message: {message} \t from {endPoint.Address}:{endPoint.Port}");
+
+                return (endPoint.Address, port);
+            }
+            catch (SocketException ex) when (ex.SocketErrorCode == SocketError.TimedOut)
+            {
+                Console.WriteLine("UDP receive timed out.");
+                throw new TimeoutException("Failed to recive UDP broaddcast message.");
+            }
         }
     }
 }

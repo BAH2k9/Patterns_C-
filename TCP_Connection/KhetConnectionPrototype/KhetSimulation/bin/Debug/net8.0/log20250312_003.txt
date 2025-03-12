@@ -1,0 +1,34 @@
+[22:29:06 Information] [KhetSimulation.Application] Application started
+[22:29:06 Information] [KhetSimulation.Application] --- Menu ---
+[22:29:06 Information] [KhetSimulation.Application] 1. Host Game
+[22:29:06 Information] [KhetSimulation.Application] 2. Join Game
+[22:29:06 Information] [KhetSimulation.Application] 3. Exit Application
+[22:29:12 Information] [KhetSimulation.Application] Joining game...
+[22:29:12 Information] [NetworkCommunication.NetworkService] Listening for a UDP message...
+[22:29:22 Warning] [NetworkCommunication.NetworkService] UDP receive timed out.
+[22:29:23 Information] [KhetSimulation.Application] --- Menu ---
+[22:29:23 Information] [KhetSimulation.Application] 1. Host Game
+[22:29:23 Information] [KhetSimulation.Application] 2. Join Game
+[22:29:23 Information] [KhetSimulation.Application] 3. Exit Application
+[22:29:55 Information] [KhetSimulation.Application] Application started
+[22:29:55 Information] [KhetSimulation.Application] --- Menu ---
+[22:29:55 Information] [KhetSimulation.Application] 1. Host Game
+[22:29:55 Information] [KhetSimulation.Application] 2. Join Game
+[22:29:55 Information] [KhetSimulation.Application] 3. Exit Application
+[22:30:24 Information] [KhetSimulation.Application] Joining game...
+[22:30:24 Information] [NetworkCommunication.NetworkService] Listening for a UDP message...
+[22:30:34 Warning] [NetworkCommunication.NetworkService] UDP receive timed out.
+[22:30:35 Information] [KhetSimulation.Application] --- Menu ---
+[22:30:35 Information] [KhetSimulation.Application] 1. Host Game
+[22:30:35 Information] [KhetSimulation.Application] 2. Join Game
+[22:30:35 Information] [KhetSimulation.Application] 3. Exit Application
+[22:30:43 Information] [KhetSimulation.Application] Joining game...
+[22:30:43 Information] [NetworkCommunication.NetworkService] Listening for a UDP message...
+[22:30:44 Information] [NetworkCommunication.NetworkService] Received message: 5001 	 from 192.168.0.133:60610
+[22:30:44 Information] [NetworkCommunication.NetworkService] Connecting to server...
+[22:30:44 Information] [NetworkCommunication.NetworkService] Connected!...
+[22:30:44 Warning] [NetworkCommunication.NetworkService] Failed to connect to server.
+[22:30:45 Information] [KhetSimulation.Application] --- Menu ---
+[22:30:45 Information] [KhetSimulation.Application] 1. Host Game
+[22:30:45 Information] [KhetSimulation.Application] 2. Join Game
+[22:30:45 Information] [KhetSimulation.Application] 3. Exit Application
