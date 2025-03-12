@@ -16,7 +16,7 @@ namespace WPF_Simulation
 
         }
 
-        public void EnterMessageLoop()
+        public void EnterActionLoop()
         {
             Console.WriteLine("Server Entering Message loop");
 

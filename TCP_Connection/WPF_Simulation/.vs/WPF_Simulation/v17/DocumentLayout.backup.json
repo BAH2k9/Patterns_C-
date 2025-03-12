@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\baile\\source\\GitHub\\Personal\\Patterns_C-\\TCP_Connection\\WPF_Simulation\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5A495BAF-75B8-4BB6-B6EA-07C2DA90927D}|WPF_Simulation\\WPF_Simulation.csproj|c:\\users\\baile\\source\\github\\personal\\patterns_c-\\tcp_connection\\wpf_simulation\\wpf_simulation\\messageloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A495BAF-75B8-4BB6-B6EA-07C2DA90927D}|WPF_Simulation\\WPF_Simulation.csproj|solutionrelative:wpf_simulation\\messageloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5A495BAF-75B8-4BB6-B6EA-07C2DA90927D}|WPF_Simulation\\WPF_Simulation.csproj|c:\\users\\baile\\source\\github\\personal\\patterns_c-\\tcp_connection\\wpf_simulation\\wpf_simulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A495BAF-75B8-4BB6-B6EA-07C2DA90927D}|WPF_Simulation\\WPF_Simulation.csproj|solutionrelative:wpf_simulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A495BAF-75B8-4BB6-B6EA-07C2DA90927D}|WPF_Simulation\\WPF_Simulation.csproj|c:\\users\\baile\\source\\github\\personal\\patterns_c-\\tcp_connection\\wpf_simulation\\wpf_simulation\\networkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A495BAF-75B8-4BB6-B6EA-07C2DA90927D}|WPF_Simulation\\WPF_Simulation.csproj|solutionrelative:wpf_simulation\\networkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A495BAF-75B8-4BB6-B6EA-07C2DA90927D}|WPF_Simulation\\WPF_Simulation.csproj|c:\\users\\baile\\source\\github\\personal\\patterns_c-\\tcp_connection\\wpf_simulation\\wpf_simulation\\hostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A495BAF-75B8-4BB6-B6EA-07C2DA90927D}|WPF_Simulation\\WPF_Simulation.csproj|solutionrelative:wpf_simulation\\hostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A495BAF-75B8-4BB6-B6EA-07C2DA90927D}|WPF_Simulation\\WPF_Simulation.csproj|c:\\users\\baile\\source\\github\\personal\\patterns_c-\\tcp_connection\\wpf_simulation\\wpf_simulation\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A495BAF-75B8-4BB6-B6EA-07C2DA90927D}|WPF_Simulation\\WPF_Simulation.csproj|solutionrelative:wpf_simulation\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A495BAF-75B8-4BB6-B6EA-07C2DA90927D}|WPF_Simulation\\WPF_Simulation.csproj|c:\\users\\baile\\source\\github\\personal\\patterns_c-\\tcp_connection\\wpf_simulation\\wpf_simulation\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A495BAF-75B8-4BB6-B6EA-07C2DA90927D}|WPF_Simulation\\WPF_Simulation.csproj|solutionrelative:wpf_simulation\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A495BAF-75B8-4BB6-B6EA-07C2DA90927D}|WPF_Simulation\\WPF_Simulation.csproj|c:\\users\\baile\\source\\github\\personal\\patterns_c-\\tcp_connection\\wpf_simulation\\wpf_simulation\\joinservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A495BAF-75B8-4BB6-B6EA-07C2DA90927D}|WPF_Simulation\\WPF_Simulation.csproj|solutionrelative:wpf_simulation\\joinservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,39 +42,64 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Server.cs",
-              "DocumentMoniker": "C:\\Users\\baile\\source\\GitHub\\Personal\\Patterns_C-\\TCP_Connection\\WPF_Simulation\\WPF_Simulation\\Server.cs",
-              "RelativeDocumentMoniker": "WPF_Simulation\\Server.cs",
-              "ToolTip": "C:\\Users\\baile\\source\\GitHub\\Personal\\Patterns_C-\\TCP_Connection\\WPF_Simulation\\WPF_Simulation\\Server.cs",
-              "RelativeToolTip": "WPF_Simulation\\Server.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAfAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\baile\\source\\GitHub\\Personal\\Patterns_C-\\TCP_Connection\\WPF_Simulation\\WPF_Simulation\\Message.cs",
+              "RelativeDocumentMoniker": "WPF_Simulation\\Message.cs",
+              "ToolTip": "C:\\Users\\baile\\source\\GitHub\\Personal\\Patterns_C-\\TCP_Connection\\WPF_Simulation\\WPF_Simulation\\Message.cs",
+              "RelativeToolTip": "WPF_Simulation\\Message.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T21:51:50.892Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NetworkService.cs",
-              "DocumentMoniker": "C:\\Users\\baile\\source\\GitHub\\Personal\\Patterns_C-\\TCP_Connection\\WPF_Simulation\\WPF_Simulation\\NetworkService.cs",
-              "RelativeDocumentMoniker": "WPF_Simulation\\NetworkService.cs",
-              "ToolTip": "C:\\Users\\baile\\source\\GitHub\\Personal\\Patterns_C-\\TCP_Connection\\WPF_Simulation\\WPF_Simulation\\NetworkService.cs",
-              "RelativeToolTip": "WPF_Simulation\\NetworkService.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAIwHAAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T00:04:13.263Z",
+              "WhenOpened": "2025-03-12T00:35:57.583Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MessageLoop.cs",
+              "DocumentMoniker": "C:\\Users\\baile\\source\\GitHub\\Personal\\Patterns_C-\\TCP_Connection\\WPF_Simulation\\WPF_Simulation\\MessageLoop.cs",
+              "RelativeDocumentMoniker": "WPF_Simulation\\MessageLoop.cs",
+              "ToolTip": "C:\\Users\\baile\\source\\GitHub\\Personal\\Patterns_C-\\TCP_Connection\\WPF_Simulation\\WPF_Simulation\\MessageLoop.cs",
+              "RelativeToolTip": "WPF_Simulation\\MessageLoop.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAwwFYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T15:18:15.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JoinService.cs",
+              "DocumentMoniker": "C:\\Users\\baile\\source\\GitHub\\Personal\\Patterns_C-\\TCP_Connection\\WPF_Simulation\\WPF_Simulation\\JoinService.cs",
+              "RelativeDocumentMoniker": "WPF_Simulation\\JoinService.cs",
+              "ToolTip": "C:\\Users\\baile\\source\\GitHub\\Personal\\Patterns_C-\\TCP_Connection\\WPF_Simulation\\WPF_Simulation\\JoinService.cs",
+              "RelativeToolTip": "WPF_Simulation\\JoinService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAkwEUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T15:05:40.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HostService.cs",
+              "DocumentMoniker": "C:\\Users\\baile\\source\\GitHub\\Personal\\Patterns_C-\\TCP_Connection\\WPF_Simulation\\WPF_Simulation\\HostService.cs",
+              "RelativeDocumentMoniker": "WPF_Simulation\\HostService.cs",
+              "ToolTip": "C:\\Users\\baile\\source\\GitHub\\Personal\\Patterns_C-\\TCP_Connection\\WPF_Simulation\\WPF_Simulation\\HostService.cs",
+              "RelativeToolTip": "WPF_Simulation\\HostService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAowC8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T15:05:28.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\baile\\source\\GitHub\\Personal\\Patterns_C-\\TCP_Connection\\WPF_Simulation\\WPF_Simulation\\Program.cs",
               "RelativeDocumentMoniker": "WPF_Simulation\\Program.cs",
-              "ToolTip": "C:\\Users\\baile\\source\\GitHub\\Personal\\Patterns_C-\\TCP_Connection\\WPF_Simulation\\WPF_Simulation\\Program.cs*",
-              "RelativeToolTip": "WPF_Simulation\\Program.cs*",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCoAAAANAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\baile\\source\\GitHub\\Personal\\Patterns_C-\\TCP_Connection\\WPF_Simulation\\WPF_Simulation\\Program.cs",
+              "RelativeToolTip": "WPF_Simulation\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-06T23:29:43.757Z",
               "EditorCaption": ""

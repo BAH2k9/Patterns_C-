@@ -20,28 +20,41 @@ namespace WPF_Simulation
                 Console.WriteLine("2. Join Game");
 
                 string input = Console.ReadLine() ?? "";
-                var networkService = new NetworkService(tcpPort, udpPort);
+                // var networkService = new NetworkService(tcpPort, udpPort);
 
                 switch (input)
                 {
                     case "1":
-                        Console.WriteLine("Hosting game...");
-                        await networkService.StartConnection();
+                        {
+                            Console.WriteLine("Hosting game...");
+                            var host = new HostService(udpPort, tcpPort);
+                            var stream = await host.StartConnection();
+                            var messageLoop = new MessageLoop(stream);
+                            await messageLoop.StartAsSender();
+                            break;
+                        }
 
-                        break;
+
                     case "2":
-                        Console.WriteLine("Joining game...");
-                        await networkService.JoinGame();
-                        break;
+                        {
+                            Console.WriteLine("Joining game...");
+                            var joiner = new JoinService(udpPort);
+                            var stream = await joiner.JoinGame();
+                            var messageLoop = new MessageLoop(stream);
+                            await messageLoop.StartAsReceiver();
+                            break;
+                        }
+
+
                     default:
                         Console.WriteLine("Invalid input.");
                         continue;
                 }
 
 
-                await Task.Delay(5000);
+                await Task.Delay(1500);
             }
-            -0
+
 
         }
 
